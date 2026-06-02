@@ -1,0 +1,76 @@
+# GitHub Metrics dashboard — https://github.com/lowlighter/metrics
+# This renders the metrics SVG and commits it to your repo so the README can embed it.
+#
+# ⚠️ SETUP REQUIRED (do these once):
+#   1. Replace YOUR_GITHUB_USERNAME below with your actual GitHub username.
+#   2. Create a Personal Access Token (classic) with scopes: repo, read:user, read:org
+#      → https://github.com/settings/tokens
+#   3. Add it to your repo as a secret named METRICS_TOKEN
+#      → Repo → Settings → Secrets and variables → Actions → New repository secret
+#   4. Update the pagespeed URL to your own site (or remove that plugin).
+
+name: Metrics
+on:
+  # Run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Run on every push to the default branch
+  push:
+    branches:
+      - main
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Core token + user
+          token: ${{ secrets.SHAHZEB }}
+          user: asifaslamibu
+          filename: github-metrics.svg
+          template: classic
+
+          # ---- Base header (avatar, repos, releases, stars, etc.) ----
+          base: header, activity, community, repositories, metadata
+
+          # ---- 3D contributions calendar ----
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ---- Languages (most used + breakdown) ----
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # ---- Coding habits & activity ----
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+
+          # ---- Mastered technologies / topics ----
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+          # ---- PageSpeed Insights (change to your own site) ----
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://elegantewesternwear.com/
+          plugin_pagespeed_detailed: yes
+
+          # ---- Projects board ----
+          plugin_projects: yes
+          plugin_projects_limit: 1
+
+          # ---- Notable contributions / followup ----
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          config_timezone: Asia/Karachi
