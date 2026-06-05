@@ -4,7 +4,7 @@
 
 I'm a full-stack CMS developer based in Karachi, Pakistan, with 5+ years of experience building custom websites, plugins, and web applications. I currently lead development teams delivering projects across WordPress, Shopify, HubSpot, Wix, and Squarespace.
 
-- 🔭 Currently leading CMS projects as **Team Lead (CMS Developer)** at Media Revolution
+- 🔭 Currently leading CMS projects as **Team Lead (CMS Developer)** at Astrozon
 - 🌱 Working with AI-assisted development (Laravel, Node.js) using Cursor & Copilot
 - 🛠️ I build custom WordPress plugins & themes, integrate APIs, and optimize performance
 - 🖥️ Experienced in domain, VPS hosting, and server deployment management
