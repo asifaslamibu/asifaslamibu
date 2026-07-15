@@ -1,12 +1,26 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A06EFF&center=true&vCenter=true&width=680&height=50&lines=Full-Stack+CMS+Developer+%26+Team+Lead;WordPress+%C2%B7+Shopify+%C2%B7+Laravel+%C2%B7+Wix;5%2B+Years+Shipping+Production+Sites;AI-Assisted+Development+%26+REST+APIs" alt="typing header" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=asifaslamibu&label=Profile%20Views&color=A06EFF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/asifaslamibu?label=Followers&style=for-the-badge&color=A06EFF&logo=github&logoColor=white" alt="followers" />
+  <a href="https://asifaslamibu.github.io/"><img src="https://img.shields.io/badge/Portfolio-A06EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/asifaslamofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+</p>
+
+</div>
+
 # Hi there, I'm Muhammad Asif 👋
 
 ### CMS Developer & Team Lead | WordPress · Shopify · Laravel · Wix · Squarespace
 
-I'm a full-stack CMS developer based in Karachi, Pakistan, with 5+ years of experience building custom websites, plugins, and web applications. I currently lead development teams delivering projects across WordPress, Shopify, HubSpot, Wix, and Squarespace.
+I'm a full-stack CMS developer based in Karachi, Pakistan, with **5+ years** of experience building custom websites, plugins, and web applications. I currently lead development teams delivering projects across WordPress, Shopify, HubSpot, Wix, and Squarespace.
 
-- 🔭 Currently leading CMS projects as **Team Lead (CMS Developer)** at Astrozon
-- 🌱 Working with AI-assisted development (Laravel, Node.js) using Cursor & Copilot
-- 🛠️ I build custom WordPress plugins & themes, integrate APIs, and optimize performance
+- 🔭 Currently leading CMS projects as **Team Lead (CMS Developer)**
+- 🌱 Working with **AI-assisted development** (Laravel, Node.js) using Cursor & Copilot
+- 🛠️ I build custom WordPress plugins & themes, integrate **REST APIs**, and optimize performance
+- 💳 Payment-integrated e-commerce with **Stripe, PayPal & Firebase**
 - 🖥️ Experienced in domain, VPS hosting, and server deployment management
 - 📫 Reach me: **muhammad1111asif@gmail.com** | 📱 +92 344 2509080
 
@@ -39,6 +53,36 @@ I'm a full-stack CMS developer based in Karachi, Pakistan, with 5+ years of expe
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
+### Tools & Ops
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asifaslamibu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifaslamibu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=asifaslamibu&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="185" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifaslamibu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asifaslamibu&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+</div>
+
 ---
 
 ## 💼 Experience
@@ -64,6 +108,7 @@ Built web layouts, managed CI/CD & pull requests, and developed content platform
 | **Shipsearch** | HTML, CSS, JS, PHP |
 | **Document Key** | HTML, CSS, JS, PHP |
 | **Auto Fill Form System** | WordPress Plugin |
+| **Dynamic Portfolio CMS** | Core PHP, MySQL, Admin Panel |
 
 ### 🌐 Selected Client Sites
 - [lullababyusa.com](https://lullababyusa.com/) — Shopify (PageFly)
@@ -77,31 +122,21 @@ Built web layouts, managed CI/CD & pull requests, and developed content platform
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-- **Diploma in IT** — Aligarh Institute of Technology, Karachi (2018)
-- **ADS (Engineering)** — Shah Abdul Latif University, Khairpur (2020–2023)
-- **Mobile Application & Web Development** — Aptech Learning Center
-
----
-
-## 📊 GitHub Metrics
-
-<!-- This image is generated automatically by the Metrics GitHub Action (.github/workflows/metrics.yml).
-     It will appear here after the workflow runs successfully for the first time. -->
-![Metrics](./github-metrics.svg)
-
----
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=asifaslamibu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+- **BCS — Computer Software Engineering** — Shah Abdul Latif University, Khairpur (2019–2023)
+- **Diploma in IT** — Aligarh Institute of Technology, Karachi (2015–2018)
+- **Web & Mobile Application Development** — Aptech Pakistan
+- 🛡️ Cybersecurity Foundations · JavaScript Developer Certificate · Cyber Security & Ethical Hacking (NED)
 
 ---
 
 ## 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-A06EFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asifaslamibu.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad1111asif@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifaslamofficial/)
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/asifaslamibu">asifaslamibu</a> — building web systems that actually ship.</sub>
+</div>
