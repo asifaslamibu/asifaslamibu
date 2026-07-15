@@ -93,6 +93,14 @@ Built web layouts, managed CI/CD & pull requests, and developed content platform
 
 ---
 
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=asifaslamibu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad1111asif@gmail.com)
