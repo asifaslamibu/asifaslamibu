@@ -62,14 +62,26 @@ I'm a full-stack CMS developer based in Karachi, Pakistan, with **5+ years** of 
 
 ---
 
-## 📊 GitHub Analytics
+## 🌆 Contribution City
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asifaslamibu/asifaslamibu/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
+</div>
+
+## 📊 Telemetry
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=asifaslamibu&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="185" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifaslamibu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifaslamibu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="94%" alt="activity graph" />
+</div>
+
+## 🐍 The Hunt
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asifaslamibu/asifaslamibu/output/github-snake-dark.svg" width="94%" alt="contribution snake" />
 </div>
 
 ---
