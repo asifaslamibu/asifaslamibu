@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+  <title id="t">What I do</title>
+  <desc id="d">At work: custom e-commerce on Laravel and WordPress, Shopify and Wix builds, Python product scraping, VPS hosting and deployment. How I work: design to deploy, team leadership, clean code reviews.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,monospace}
+    .row{opacity:0;animation:in .6s ease-out forwards}
+    .a1{animation-delay:.1s}.a2{animation-delay:.25s}.a3{animation-delay:.4s}.a4{animation-delay:.55s}
+    @keyframes in{from{opacity:0}to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.row{animation:none;opacity:1}}
+  </style>
+  <rect width="1200" height="380" rx="28" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="379" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- left card -->
+  <g transform="translate(40 40)">
+    <rect width="548" height="300" rx="20" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="28" y="44" class="mono" font-size="13" fill="#3ee08f">// 01 · AT WORK</text>
+    <text x="28" y="80" class="sans" font-size="26" font-weight="700" fill="#eef1fa">What I ship</text>
+    <g class="sans" font-size="17" fill="#c6cde4">
+      <g class="row a1"><text x="28" y="128"><tspan fill="#3ee08f">▸ </tspan>Custom e-commerce on Laravel &amp; WordPress</text></g>
+      <g class="row a2"><text x="28" y="168"><tspan fill="#3ee08f">▸ </tspan>Shopify, Wix (Velo), Webflow &amp; HubSpot sites</text></g>
+      <g class="row a3"><text x="28" y="208"><tspan fill="#3ee08f">▸ </tspan>Python scraping &amp; product catalog imports</text></g>
+      <g class="row a4"><text x="28" y="248"><tspan fill="#3ee08f">▸ </tspan>VPS hosting, DNS, SSL &amp; deployments</text></g>
+    </g>
+  </g>
+
+  <!-- right card -->
+  <g transform="translate(612 40)">
+    <rect width="548" height="300" rx="20" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="28" y="44" class="mono" font-size="13" fill="#4cc9f0">// 02 · HOW I WORK</text>
+    <text x="28" y="80" class="sans" font-size="26" font-weight="700" fill="#eef1fa">Design → deploy</text>
+    <g class="sans" font-size="17" fill="#c6cde4">
+      <g class="row a1"><text x="28" y="128"><tspan fill="#4cc9f0">▸ </tspan>Figma / PSD / XD to pixel-perfect builds</text></g>
+      <g class="row a2"><text x="28" y="168"><tspan fill="#4cc9f0">▸ </tspan>Custom WordPress themes &amp; plugins</text></g>
+      <g class="row a3"><text x="28" y="208"><tspan fill="#4cc9f0">▸ </tspan>Led dev teams: sprints, code reviews, QA</text></g>
+      <g class="row a4"><text x="28" y="248"><tspan fill="#4cc9f0">▸ </tspan>Main technical contact for clients</text></g>
+    </g>
+  </g>
+</svg>

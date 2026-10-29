@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="t d">
+  <title id="t">Muhammad Asif — hero</title>
+  <desc id="d">CMS and E-commerce Developer at AstroZon. Full stack developer with 5+ years across WordPress, Shopify, Laravel, Wix, Webflow and HubSpot. Based in Karachi, Pakistan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ee08f"/>
+      <stop offset="1" stop-color="#4cc9f0"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3ee08f" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3ee08f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7b5cff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7b5cff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="560" rx="28"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,monospace}
+    .orb{animation:drift 14s ease-in-out infinite alternate}
+    .orb2{animation:drift 18s ease-in-out infinite alternate-reverse}
+    @keyframes drift{from{transform:translate(0,0)}to{transform:translate(60px,30px)}}
+    .role{opacity:0;animation:cycle 12s infinite}
+    .r2{animation-delay:3s}.r3{animation-delay:6s}.r4{animation-delay:9s}
+    @keyframes cycle{0%{opacity:0;transform:translateY(8px)}3%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-8px)}}
+    .caret{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .pulse{animation:pulse 2s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+    .rise{opacity:0;animation:rise .8s ease-out forwards}
+    .d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.5s}.d4{animation-delay:.7s}
+    @keyframes rise{from{opacity:0}to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){
+      .orb,.orb2,.caret,.pulse{animation:none}
+      .rise{animation:none;opacity:1}
+      .role{animation:none}.r1{opacity:1}
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="560" fill="url(#bg)"/>
+    <circle class="orb" cx="980" cy="120" r="260" fill="url(#glowA)"/>
+    <circle class="orb2" cx="160" cy="500" r="280" fill="url(#glowB)"/>
+    <g stroke="#ffffff" stroke-opacity="0.04">
+      <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200M0 400H1200M0 480H1200"/>
+      <path d="M100 0V560M200 0V560M300 0V560M400 0V560M500 0V560M600 0V560M700 0V560M800 0V560M900 0V560M1000 0V560M1100 0V560"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="559" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- browser chrome -->
+  <g transform="translate(56 44)">
+    <circle cx="8" cy="8" r="7" fill="#ff5f57"/>
+    <circle cx="30" cy="8" r="7" fill="#febc2e"/>
+    <circle cx="52" cy="8" r="7" fill="#28c840"/>
+    <rect x="84" y="-6" width="420" height="28" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="104" y="13" class="mono" font-size="13" fill="#8b95b5">~/asifaslamibu — git log --author=asif</text>
+  </g>
+
+  <!-- status pill -->
+  <g class="rise d1" transform="translate(56 112)">
+    <rect width="340" height="34" rx="17" fill="#3ee08f" fill-opacity="0.1" stroke="#3ee08f" stroke-opacity="0.4"/>
+    <circle class="pulse" cx="20" cy="17" r="5" fill="#3ee08f"/>
+    <text x="36" y="22" class="mono" font-size="13" fill="#3ee08f">open to full-time &amp; contract work</text>
+  </g>
+
+  <g class="rise d2">
+    <text x="56" y="210" class="sans" font-size="30" fill="#c6cde4">Hi, I'm</text>
+    <text x="56" y="282" class="sans" font-size="72" font-weight="800" fill="url(#accent)">Muhammad Asif</text>
+  </g>
+
+  <g class="rise d3" transform="translate(56 336)">
+    <text class="mono" font-size="26" fill="#8b95b5">&gt;</text>
+    <g class="mono" font-size="26" fill="#eef1fa">
+      <text class="role r1" x="26">CMS &amp; E-commerce Developer @ AstroZon</text>
+      <text class="role r2" x="26">WordPress · WooCommerce · custom themes</text>
+      <text class="role r3" x="26">Shopify, Wix, Webflow &amp; HubSpot builds</text>
+      <text class="role r4" x="26">Laravel · PHP · MySQL · Python scraping</text>
+    </g>
+  </g>
+
+  <text class="sans rise d3" x="56" y="400" font-size="19" fill="#a3acc8">I turn Figma &amp; PSD designs into fast, production-ready eCommerce sites,</text>
+  <text class="sans rise d3" x="56" y="428" font-size="19" fill="#a3acc8">and I've led the dev teams that ship them. 5+ years, 40+ live sites.</text>
+
+  <!-- meta chips -->
+  <g class="rise d4 mono" font-size="14" transform="translate(56 466)">
+    <rect width="190" height="40" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="18" y="26" fill="#eef1fa">📍 Karachi, PK</text>
+    <rect x="206" width="230" height="40" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="224" y="26" fill="#eef1fa">🧩 6 CMS platforms</text>
+    <rect x="452" width="200" height="40" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="470" y="26" fill="#eef1fa">👥 2 teams led</text>
+  </g>
+
+  <!-- code card -->
+  <g class="rise d4" transform="translate(780 150)">
+    <rect width="364" height="316" rx="20" fill="#0d1428" fill-opacity="0.85" stroke="#ffffff" stroke-opacity="0.1"/>
+    <rect width="364" height="40" rx="20" fill="#ffffff" fill-opacity="0.04"/>
+    <text x="20" y="26" class="mono" font-size="13" fill="#8b95b5">asif.json</text>
+    <g class="mono" font-size="15">
+      <text x="20" y="76" fill="#8b95b5">{</text>
+      <text x="40" y="104"><tspan fill="#4cc9f0">"role"</tspan><tspan fill="#8b95b5">: </tspan><tspan fill="#ffd479">"Full Stack Dev"</tspan><tspan fill="#8b95b5">,</tspan></text>
+      <text x="40" y="132"><tspan fill="#4cc9f0">"now"</tspan><tspan fill="#8b95b5">: </tspan><tspan fill="#ffd479">"AstroZon"</tspan><tspan fill="#8b95b5">,</tspan></text>
+      <text x="40" y="160"><tspan fill="#4cc9f0">"years"</tspan><tspan fill="#8b95b5">: </tspan><tspan fill="#ff8fa3">5</tspan><tspan fill="#8b95b5">,</tspan></text>
+      <text x="40" y="188"><tspan fill="#4cc9f0">"sites"</tspan><tspan fill="#8b95b5">: </tspan><tspan fill="#ff8fa3">40</tspan><tspan fill="#8b95b5">,</tspan></text>
+      <text x="40" y="216"><tspan fill="#4cc9f0">"cms"</tspan><tspan fill="#8b95b5">: [</tspan><tspan fill="#ffd479">"WP"</tspan><tspan fill="#8b95b5">, </tspan><tspan fill="#ffd479">"Shopify"</tspan><tspan fill="#8b95b5">,</tspan></text>
+      <text x="60" y="244"><tspan fill="#ffd479">"Wix"</tspan><tspan fill="#8b95b5">, </tspan><tspan fill="#ffd479">"Webflow"</tspan><tspan fill="#8b95b5">, ...],</tspan></text>
+      <text x="40" y="272"><tspan fill="#4cc9f0">"coffee"</tspan><tspan fill="#8b95b5">: </tspan><tspan fill="#3ee08f">true</tspan></text>
+      <text x="20" y="298" fill="#8b95b5">}</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">Let's ship something</title>
+  <desc id="d">Let's ship something. Reach me by email at muhammad1111asif@gmail.com, on LinkedIn, or through my portfolio. Links are below.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2a22"/>
+      <stop offset="0.5" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#1a1440"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ee08f"/>
+      <stop offset="1" stop-color="#4cc9f0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,monospace}
+    .shine{animation:shine 6s linear infinite}
+    @keyframes shine{from{transform:translateX(-400px)}to{transform:translateX(1600px)}}
+    @media (prefers-reduced-motion:reduce){.shine{animation:none;opacity:0}}
+  </style>
+  <clipPath id="clip"><rect width="1200" height="260" rx="28"/></clipPath>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <rect class="shine" x="0" y="-40" width="120" height="340" fill="#ffffff" fill-opacity="0.04" transform="skewX(-20)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+
+  <text x="600" y="78" text-anchor="middle" class="mono" font-size="14" fill="#3ee08f">$ git commit -m "let's work together"</text>
+  <text x="600" y="138" text-anchor="middle" class="sans" font-size="48" font-weight="800" fill="url(#accent)">Let's ship something.</text>
+  <text x="600" y="182" text-anchor="middle" class="sans" font-size="18" fill="#a3acc8">Open to full-time roles, contracts and freelance builds.</text>
+  <text x="600" y="214" text-anchor="middle" class="mono" font-size="15" fill="#eef1fa">muhammad1111asif@gmail.com</text>
+</svg>

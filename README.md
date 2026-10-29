@@ -1,139 +1,51 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A06EFF&center=true&vCenter=true&width=680&height=50&lines=Full-Stack+CMS+Developer+%26+Team+Lead;WordPress+%C2%B7+Shopify+%C2%B7+Laravel+%C2%B7+Wix;5%2B+Years+Shipping+Production+Sites;AI-Assisted+Development+%26+REST+APIs" alt="typing header" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=asifaslamibu&label=Profile%20Views&color=A06EFF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/asifaslamibu?label=Followers&style=for-the-badge&color=A06EFF&logo=github&logoColor=white" alt="followers" />
-  <a href="https://asifaslamibu.github.io/"><img src="https://img.shields.io/badge/Portfolio-A06EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/asifaslamofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<p align="center">
+  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Muhammad Asif. CMS and E-commerce Developer at AstroZon. Full stack developer with 5+ years and 40+ live sites across WordPress, Shopify, Wix, Webflow and Laravel. Based in Karachi, Pakistan." />
 </p>
 
-</div>
+<img src="./assets/about.svg?v=1" width="100%" alt="What I ship: custom e-commerce on Laravel and WordPress, Shopify, Wix, Webflow and HubSpot sites, Python scraping and catalog imports, VPS hosting and deployment. How I work: Figma to pixel-perfect builds, custom WordPress themes and plugins, leading dev teams, client communication." />
 
-# Hi there, I'm Muhammad Asif 👋
+<img src="./assets/stack.svg?v=1" width="100%" alt="My stack: WordPress, WooCommerce, Shopify, Wix, Webflow, Squarespace, HubSpot, PHP, Laravel, MySQL, Python, HTML5, CSS3, JavaScript, jQuery, Bootstrap, VPS, cPanel, DigitalOcean and Git." />
 
-### CMS Developer & Team Lead | WordPress · Shopify · Laravel · Wix · Squarespace
+### Things I've built
 
-I'm a full-stack CMS developer based in Karachi, Pakistan, with **5+ years** of experience building custom websites, plugins, and web applications. I currently lead development teams delivering projects across WordPress, Shopify, HubSpot, Wix, and Squarespace.
+| Project | Platform | What it is |
+| :--- | :--- | :--- |
+| [**Bright Nest Cleaning**](https://brightnestclean.ibusystem.com/) | Custom WordPress theme | Dubai cleaning services site, theme built from scratch |
+| [**Karachi Trader**](https://karachitrader.ibusystem.com/) | Custom WordPress theme · WooCommerce | eCommerce store on a custom-built theme |
+| [**Bellarinj**](https://www.bellarinj.com/) | WordPress | eCommerce store |
+| [**John's Killer Protein**](https://johnskillerprotein.com/) | WordPress | Food &amp; nutrition brand |
+| [**Lulla Baby USA**](https://lullababyusa.com/) | Shopify · PageFly | Baby products store |
+| [**Johnsons Printwear**](http://johnsonsprintwear.co.uk/) | Shopify | UK custom apparel store |
+| [**Virtual Mike AI**](https://virtualmike.ai/) | Webflow | AI product site |
+| [**Washingtons Detailing**](https://www.washingtonsdetailing.com/) | Wix | Service business site |
+| [**VRE**](https://vre.us) | Custom | Business site |
+| [**main-portfolio**](https://github.com/asifaslamibu/main-portfolio) | Core PHP + MySQL | Database-driven portfolio with a full admin panel |
 
-- 🔭 Currently leading CMS projects as **Team Lead (CMS Developer)**
-- 🌱 Working with **AI-assisted development** (Laravel, Node.js) using Cursor & Copilot
-- 🛠️ I build custom WordPress plugins & themes, integrate **REST APIs**, and optimize performance
-- 💳 Payment-integrated e-commerce with **Stripe, PayPal & Firebase**
-- 🖥️ Experienced in domain, VPS hosting, and server deployment management
-- 📫 Reach me: **muhammad1111asif@gmail.com** | 📱 +92 344 2509080
+<sub>40+ more live sites on my <a href="https://asifaslamibu.github.io/">portfolio</a>.</sub>
 
----
+<img src="./assets/journey.svg?v=1" width="100%" alt="Career log: AstroZon, CMS and E-commerce Developer, 2026 to now. Media Revolutions, Team Lead Full Stack, 2025 to 2026. Matrix Analytics, Team Lead CMS, 2023 to 2025. AIMVIZ, Backend Developer, 2022 to 2023. P2P Track, Junior Web App Developer, 2021 to 2022. 5+ years, 40+ sites, 6 CMS platforms, 2 teams led." />
 
-## 🧰 Tech Stack
+### Contribution city
 
-### Languages & Markup
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asifaslamibu/asifaslamibu/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</p>
 
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=javascript&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifaslamibu&bg_color=0b1020&color=c6cde4&line=3ee08f&point=4cc9f0&area_color=3ee08f&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution activity graph" />
+</p>
 
-### CMS & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
-![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asifaslamibu/asifaslamibu/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
+</p>
 
-### Tools & Ops
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+<img src="./assets/connect.svg?v=1" width="100%" alt="Let's ship something. Open to full-time roles, contracts and freelance builds. Email muhammad1111asif@gmail.com, or use the links below." />
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/asifaslamofficial/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://asifaslamibu.github.io/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:muhammad1111asif@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/asifaslamibu?tab=repositories">Repositories</a>
+</p>
 
-## 🌆 Contribution City
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/asifaslamibu/asifaslamibu/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
-</div>
-
-## 📊 Telemetry
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifaslamibu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="94%" alt="activity graph" />
-</div>
-
-## 🐍 The Hunt
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/asifaslamibu/asifaslamibu/output/github-snake-dark.svg" width="94%" alt="contribution snake" />
-</div>
-
----
-
-## 💼 Experience
-
-**Team Lead — CMS Developer** · Media Revolution, Karachi · *Apr 2025 – Apr 2026*
-Oversee HubSpot, Shopify, WordPress, Wix & Squarespace projects. Lead a developer team, handle Wix Velo custom coding, AI-assisted development, and manage domains, VPS hosting & server deployments.
-
-**Team Lead — CMS Developer** · Matrix Analytics, Karachi · *Sep 2023 – Apr 2025*
-Built custom solutions, API integrations & performance optimization across WordPress, Shopify, Webflow, Wix, Squarespace & HubSpot. Developed custom WordPress plugins and themes.
-
-**Executive — Backend Developer** · AIMVIZ, Karachi · *Sep 2022 – Aug 2023*
-Converted HTML layouts to WordPress, built custom plugins, and implemented enterprise content platforms using PHP, JavaScript, AJAX & jQuery.
-
-**Junior Web App Developer** · P2P Track, Karachi · *May 2021 – Sep 2022*
-Built web layouts, managed CI/CD & pull requests, and developed content platforms with Core PHP, JavaScript, AJAX, jQuery & MySQL.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack |
-|---------|-------|
-| **Shipsearch** | HTML, CSS, JS, PHP |
-| **Document Key** | HTML, CSS, JS, PHP |
-| **Auto Fill Form System** | WordPress Plugin |
-| **Dynamic Portfolio CMS** | Core PHP, MySQL, Admin Panel |
-
-### 🌐 Selected Client Sites
-- [lullababyusa.com](https://lullababyusa.com/) — Shopify (PageFly)
-- [bellarinj.com](https://www.bellarinj.com/) — WordPress
-- [johnskillerprotein.com](https://johnskillerprotein.com/) — WordPress
-- [mayashinebooks.com](https://mayashinebooks.com/) — WordPress
-- [360socialmedia.ca](https://360socialmedia.ca/) — WordPress
-- [washingtonsdetailing.com](https://www.washingtonsdetailing.com/) — Wix
-- [virtualmike.ai](https://virtualmike.ai/) — Webflow
-- [elegantewesternwear.com](https://elegantewesternwear.com/) · [thestoreonline.com.au](https://thestoreonline.com.au/) · [usforcestactical.com](https://usforcestactical.com/) · [tacbolt.com](https://tacbolt.com/)
-
----
-
-## 🎓 Education & Certifications
-
-- **BCS — Computer Software Engineering** — Shah Abdul Latif University, Khairpur (2019–2023)
-- **Diploma in IT** — Aligarh Institute of Technology, Karachi (2015–2018)
-- **Web & Mobile Application Development** — Aptech Pakistan
-- 🛡️ Cybersecurity Foundations · JavaScript Developer Certificate · Cyber Security & Ethical Hacking (NED)
-
----
-
-## 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-A06EFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asifaslamibu.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad1111asif@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifaslamofficial/)
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/asifaslamibu">asifaslamibu</a> — building web systems that actually ship.</sub>
-</div>
+<p align="center"><sub>Designs in. Production sites out.</sub></p>

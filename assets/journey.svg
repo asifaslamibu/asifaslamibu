@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+  <title id="t">Career log and numbers</title>
+  <desc id="d">5+ years, 40+ live sites, 6 CMS platforms, 2 teams led. AstroZon, CMS and E-commerce Developer, 2026 to present. Media Revolutions, Team Lead Full Stack, 2025 to 2026. Matrix Analytics, Team Lead CMS, 2023 to 2025. AIMVIZ, Backend Developer, 2022 to 2023. P2P Track, Junior Web App Developer, 2021 to 2022.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ee08f"/>
+      <stop offset="1" stop-color="#4cc9f0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Inter,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,monospace}
+    .tile rect{fill:#ffffff;fill-opacity:.03;stroke:#ffffff;stroke-opacity:.08}
+    .line{stroke-dasharray:520;stroke-dashoffset:520;animation:draw 1.6s ease-out .2s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .c{opacity:0;animation:in .5s ease-out forwards}
+    .c1{animation-delay:.3s}.c2{animation-delay:.6s}.c3{animation-delay:.9s}.c4{animation-delay:1.2s}.c5{animation-delay:1.5s}
+    @keyframes in{from{opacity:0}to{opacity:1}}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+    @media (prefers-reduced-motion:reduce){.line{animation:none;stroke-dashoffset:0}.c{animation:none;opacity:1}.pulse{animation:none}}
+  </style>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <text x="40" y="58" class="mono" font-size="13" fill="#3ee08f">// 04 · JOURNEY</text>
+  <text x="40" y="92" class="sans" font-size="26" font-weight="700" fill="#eef1fa">git log --author=asif</text>
+
+  <!-- stat tiles -->
+  <g class="sans">
+    <g class="tile" transform="translate(40 124)"><rect width="240" height="116" rx="18"/>
+      <text x="24" y="66" font-size="44" font-weight="800" fill="url(#accent)">5+</text>
+      <text x="24" y="96" class="mono" font-size="12" fill="#8b95b5">YEARS EXPERIENCE</text></g>
+    <g class="tile" transform="translate(296 124)"><rect width="240" height="116" rx="18"/>
+      <text x="24" y="66" font-size="44" font-weight="800" fill="url(#accent)">40+</text>
+      <text x="24" y="96" class="mono" font-size="12" fill="#8b95b5">LIVE SITES SHIPPED</text></g>
+    <g class="tile" transform="translate(40 256)"><rect width="240" height="116" rx="18"/>
+      <text x="24" y="66" font-size="44" font-weight="800" fill="url(#accent)">6</text>
+      <text x="24" y="96" class="mono" font-size="12" fill="#8b95b5">CMS PLATFORMS</text></g>
+    <g class="tile" transform="translate(296 256)"><rect width="240" height="116" rx="18"/>
+      <text x="24" y="66" font-size="44" font-weight="800" fill="url(#accent)">2</text>
+      <text x="24" y="96" class="mono" font-size="12" fill="#8b95b5">DEV TEAMS LED</text></g>
+  </g>
+
+  <!-- timeline -->
+  <g transform="translate(580 124)">
+    <rect width="580" height="248" rx="18" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/>
+    <path class="line" d="M36 34V214" stroke="#ffffff" stroke-opacity="0.15" stroke-width="2"/>
+    <g class="sans">
+      <g class="c c1">
+        <circle class="pulse" cx="36" cy="34" r="7" fill="#3ee08f"/>
+        <text x="60" y="40" font-size="16" font-weight="700" fill="#eef1fa">AstroZon <tspan font-weight="400" fill="#a3acc8">· CMS &amp; E-commerce Dev</tspan></text>
+        <text x="556" y="40" text-anchor="end" class="mono" font-size="12" fill="#3ee08f">2026 → now</text>
+      </g>
+      <g class="c c2">
+        <circle cx="36" cy="79" r="6" fill="#4cc9f0"/>
+        <text x="60" y="85" font-size="16" font-weight="700" fill="#eef1fa">Media Revolutions <tspan font-weight="400" fill="#a3acc8">· Team Lead, Full Stack</tspan></text>
+        <text x="556" y="85" text-anchor="end" class="mono" font-size="12" fill="#8b95b5">2025 → 2026</text>
+      </g>
+      <g class="c c3">
+        <circle cx="36" cy="124" r="6" fill="#4cc9f0"/>
+        <text x="60" y="130" font-size="16" font-weight="700" fill="#eef1fa">Matrix Analytics <tspan font-weight="400" fill="#a3acc8">· Team Lead, CMS</tspan></text>
+        <text x="556" y="130" text-anchor="end" class="mono" font-size="12" fill="#8b95b5">2023 → 2025</text>
+      </g>
+      <g class="c c4">
+        <circle cx="36" cy="169" r="6" fill="#7b5cff"/>
+        <text x="60" y="175" font-size="16" font-weight="700" fill="#eef1fa">AIMVIZ <tspan font-weight="400" fill="#a3acc8">· Backend Developer</tspan></text>
+        <text x="556" y="175" text-anchor="end" class="mono" font-size="12" fill="#8b95b5">2022 → 2023</text>
+      </g>
+      <g class="c c5">
+        <circle cx="36" cy="214" r="6" fill="#7b5cff"/>
+        <text x="60" y="220" font-size="16" font-weight="700" fill="#eef1fa">P2P Track <tspan font-weight="400" fill="#a3acc8">· Junior Web App Dev</tspan></text>
+        <text x="556" y="220" text-anchor="end" class="mono" font-size="12" fill="#8b95b5">2021 → 2022</text>
+      </g>
+    </g>
+  </g>
+</svg>
